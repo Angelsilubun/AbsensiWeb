@@ -1,0 +1,24 @@
+.mt-custom {
+    margin-top: 80px; /* Atur sesuai keinginan */
+}
+
+.card2 {
+    margin-top: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.alert {
+    margin-top: 10px;
+}
+
+.status-badge {
+    font-size: 1.25rem;
+    padding: 0.5rem 1rem;
+}
+
+.status-select {
+    font-size: 1.25rem;
+}
